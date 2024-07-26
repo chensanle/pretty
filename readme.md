@@ -1,9 +1,5 @@
-# Pretty
-
-Getting Started
+Pretty Getting Started
 ===============
-
-## Installing
 
 ## Value
 pretty print all of [array, slice, struct, map ...]
